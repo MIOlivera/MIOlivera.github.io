@@ -1,13 +1,11 @@
 header {
-		height: 80% !important;
-		background-image: url('Solstice_Market_Pic.png'); 
+		height: 70% !important;
+		background-image: url('Solstice_Market_Pic2.png') no-repeat center fixed; 
 	   	background-size: cover;
-		margin: auto;
 		display: flex;
 	        align-items: center;
 	        justify-content: center;        
 		flex-direction: column;
-	        width: 50%;
 	        text-align: center;
 	}
 	
